@@ -1,0 +1,59 @@
+	
+							Neural Nets Links : 
+
+
+https://towardsdatascience.com/a-comprehensive-introduction-to-different-types-of-convolutions-in-deep-learning-669281e58215
+
+https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b99ec3102728
+
+https://distill.pub/2016/deconv-checkerboard/
+
+https://www.analyticsvidhya.com/blog/2019/09/introduction-to-pytorch-from-scratch/   (first link )
+
+https://medium.com/@14prakash/back-propagation-is-very-simple-who-made-it-complicated-97b794c97e5c
+
+https://towardsdatascience.com/pytorch-tutorial-distilled-95ce8781a89c
+
+https://medium.com/deeplearningbrasilia/deep-learning-the-learning-part-a2f68c6319a2
+
+https://forums.fast.ai/t/runtimeerror-the-size-of-tensor-a-2-must-match-the-size-of-tensor-b-96-at-non-singleton-dimension-1/37390 { bug 1}
+
+https://medium.com/@uniqtech/pytorch-cheat-sheet-for-beginners-and-udacity-deep-learning-nanodegree-5aadc827de82
+
+
+https://pandas.pydata.org/pandas-docs/stable/user_guide/merging.html { PANDAS library}
+--------------------------------------------------------------------------------------------------------------
+
+PyTorch Basic Operations : https://jhui.github.io/2018/02/09/PyTorch-Basic-operations/
+
+LOSS FUNCTIONS :
+
+1.Hing Loss/ Soft Margin Loss : https://jamesmccaffrey.wordpress.com/2018/10/04/hinge-loss-explained-with-a-table-instead-of-a-graph/
+
+2. Cross Entropy Loss :
+
+3. CTC Loss : https://towardsdatascience.com/intuitively-understanding-connectionist-temporal-classification-3797e43a86c
+
+	    : https://distill.pub/2017/ctc/
+
+4. NLLLoss : 
+
+5. PoissonLLLoss :
+
+
+6. BCE Loss : https://discuss.pytorch.org/t/bceloss-vs-bcewithlogitsloss/33586/4
+
+	    : https://github.com/pytorch/pytorch/issues/5157
+
+	weight (Tensor, optional) – a manual rescaling weight given to the loss of each element. If given, has to be same shape as the input.
+	
+	    : https://github.com/pytorch/pytorch/issues/5660 { solution fixed in later versions of PyTorch }
+
+7. BCE With Logits Loss : https://discuss.pytorch.org/t/solved-class-weight-for-bceloss/3114
+
+			: https://github.com/pytorch/pytorch/issues/25174
+
+			
+
+
+--------------------------------------------------------------------------------------------------------------
